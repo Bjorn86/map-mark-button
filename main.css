@@ -1,0 +1,19 @@
+.page{margin:0}
+.content{height:100vh;min-width:1280px;width:100vw}
+.promo{background:url(images/bg.a9f176651a93f32561d3.jpg) 50%/cover no-repeat;background-blend-mode:multiply;background-color:rgba(2,15,32,.4);display:flex;height:100vh;justify-content:center;margin:0 auto;width:100%}
+.promo__btn-container{display:grid;grid-template-areas:". . . . . . . ." ". . . . . . house house" ". parking . . . . . ." ". . stadium . . administration office office" ". . . . entrance entrance . ." "marina marina . . . corpus-a corpus-a corpus-b" ". . . . hotel hotel . ." ". . . . . . . .";grid-template-columns:repeat(8,160px);grid-template-rows:repeat(8,auto)}
+.promo__action-btn{background:url(images/plus.f357e0355a75ebcdb874.svg) 50%/10px no-repeat;border:none;border-radius:50%;box-sizing:border-box;color:#fff;font-family:Arial,Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:1.15;padding:20px;transition:background-color .3s ease-in-out}
+.promo__action-btn_color_blue{background-color:rgba(56,119,238,.7)}.promo__action-btn_color_blue:hover{background-color:#3877ee}
+.promo__action-btn_color_green{background-color:rgba(106,191,75,.7)}.promo__action-btn_color_green:hover{background-color:#6abf4b}
+.promo__action-btn_place_house{grid-area:house;place-self:center}
+.promo__action-btn_place_parking{grid-area:parking;place-self:center}
+.promo__action-btn_place_stadium{grid-area:stadium;place-self:end center}
+.promo__action-btn_place_administration{grid-area:administration;place-self:start}
+.promo__action-btn_place_office{grid-area:office;place-self:end center}
+.promo__action-btn_place_enterence{grid-area:entrance;place-self:end center}
+.promo__action-btn_place_marina{grid-area:marina;place-self:start center}
+.promo__action-btn_place_corpus-a{grid-area:corpus-a;place-self:start center}
+.promo__action-btn_place_corpus-b{grid-area:corpus-b;place-self:center end}
+.promo__action-btn_place_hotel{grid-area:hotel;place-self:start center}
+.promo__action-btn_opened{background-image:url(images/minus.ea429d9c5f28ffdf9acf.svg);background-position:15px;border-radius:40px;padding:12px 15px 12px 40px}
+
