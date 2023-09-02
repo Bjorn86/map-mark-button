@@ -1,0 +1,4 @@
+.promo__action-btn_place_corpus-a {
+  grid-area: corpus-a;
+  place-self: start center;
+}

@@ -1,7 +1,3 @@
-/* VENDOR */
-@import url("../vendor/normalize.css");
-@import url("../vendor/font.css");
-
 /* PAGE */
 @import url("../blocks/page/page.css");
 
@@ -10,3 +6,18 @@
 
 /* PROMO */
 @import url("../blocks/promo/promo.css");
+@import url("../blocks/promo/__btn-container/promo__btn-container.css");
+@import url("../blocks/promo/__action-btn/promo__action-btn.css");
+@import url("../blocks/promo/__action-btn/_color/promo__action-btn_color_blue.css");
+@import url("../blocks/promo/__action-btn/_color/promo__action-btn_color_green.css");
+@import url("../blocks/promo/__action-btn/_place/promo__action-btn_place_house.css");
+@import url("../blocks/promo/__action-btn/_place/promo__action-btn_place_parking.css");
+@import url("../blocks/promo/__action-btn/_place/promo__action-btn_place_stadium.css");
+@import url("../blocks/promo/__action-btn/_place/promo__action-btn_place_administration.css");
+@import url("../blocks/promo/__action-btn/_place/promo__action-btn_place_office.css");
+@import url("../blocks/promo/__action-btn/_place/promo__action-btn_place_enterence.css");
+@import url("../blocks/promo/__action-btn/_place/promo__action-btn_place_marina.css");
+@import url("../blocks/promo/__action-btn/_place/promo__action-btn_place_corpus-a.css");
+@import url("../blocks/promo/__action-btn/_place/promo__action-btn_place_corpus-b.css");
+@import url("../blocks/promo/__action-btn/_place/promo__action-btn_place_hotel.css");
+@import url("../blocks/promo/__action-btn/_opened/promo__action-btn_opened.css");

@@ -1,0 +1,4 @@
+.promo__action-btn_place_parking {
+  grid-area: parking;
+  place-self: center;
+}

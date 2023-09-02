@@ -1,0 +1,4 @@
+.promo__action-btn_place_administration {
+  grid-area: administration;
+  place-self: start;
+}

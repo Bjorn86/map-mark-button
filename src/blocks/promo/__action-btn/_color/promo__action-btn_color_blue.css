@@ -1,0 +1,7 @@
+.promo__action-btn_color_blue {
+  background-color: rgba(56, 119, 238, 0.7);
+}
+
+.promo__action-btn_color_blue:hover {
+  background-color: rgba(56, 119, 238, 1);
+}

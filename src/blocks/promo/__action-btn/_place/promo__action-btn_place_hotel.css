@@ -1,0 +1,4 @@
+.promo__action-btn_place_hotel {
+  grid-area: hotel;
+  place-self: start center;
+}

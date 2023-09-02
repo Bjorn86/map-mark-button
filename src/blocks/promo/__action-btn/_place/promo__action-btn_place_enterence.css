@@ -1,0 +1,4 @@
+.promo__action-btn_place_enterence {
+  grid-area: entrance;
+  place-self: end center;
+}

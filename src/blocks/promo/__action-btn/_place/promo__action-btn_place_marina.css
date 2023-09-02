@@ -1,0 +1,4 @@
+.promo__action-btn_place_marina {
+  grid-area: marina;
+  place-self: start center;
+}

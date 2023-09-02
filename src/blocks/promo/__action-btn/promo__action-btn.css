@@ -1,0 +1,13 @@
+.promo__action-btn {
+  padding: 20px;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.15;
+  color: #fff;
+  background: url("../../../images/icons/plus.svg") center center/10px no-repeat;
+  transition: background-color 0.3s ease-in-out;
+}

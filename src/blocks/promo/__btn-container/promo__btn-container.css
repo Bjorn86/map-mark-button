@@ -1,0 +1,14 @@
+.promo__btn-container {
+  display: grid;
+  grid-template-columns: repeat(8, 160px);
+  grid-template-rows: repeat(8, auto);
+  grid-template-areas:
+    ". . . . . . . ."
+    ". . . . . . house house"
+    ". parking . . . . . ."
+    ". . stadium . . administration office office"
+    ". . . . entrance entrance . ."
+    "marina marina . . . corpus-a corpus-a corpus-b"
+    ". . . . hotel hotel . ."
+    ". . . . . . . .";
+}
